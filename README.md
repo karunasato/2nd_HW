@@ -1,4 +1,6 @@
 # 2nd_HW
+Link to published website: https://karunasato.github.io/2nd_HW/
+
 Added bootstrap Navbar and linked each html page accordingly. 
 Modified the navbar Bootstrap by taking out the additional nav-item to accomidate the 3 different html pages.
 Linked Javascript and Bootstrap so Bootstraps worked properly and responsive.
