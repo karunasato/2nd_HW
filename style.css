@@ -5,13 +5,14 @@
 }
 
 
-.hike{
-    width: 100%;
+.beach{
+    width: 50%;
     height: auto;
     float: left;
     position: relative;
     padding: 10px;
     box-sizing: border-box;
+    border-radius: 5%;
 }
 .p1{
     
@@ -26,11 +27,6 @@
     font-size: 40px;
     font-family: serif;
     background-color:teal;
-}
-.form-group{
-    }
-.form-control{
-   
 }
 
 .card-deck{
