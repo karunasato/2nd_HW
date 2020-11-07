@@ -1,4 +1,4 @@
-# 2nd_HW
+# My Portfolio
 Link to published website: https://karunasato.github.io/2nd_HW/
 
 Added bootstrap Navbar and linked each html page accordingly. 

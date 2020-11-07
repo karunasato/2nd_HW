@@ -13,11 +13,11 @@ body{
     color:white ;
     font-size: 40px;
     font-family: serif;
-    background-color:teal;
+    background-color:maroon;
 }
 
-.beach{
-    width: 50%;
+.photo{
+    width: 45%;
     height: auto;
     float: left;
     position: relative;
@@ -29,6 +29,8 @@ body{
 .p1{
     
     padding:10px;
+    position: relative;
+
 }
 
 .p2{
@@ -43,7 +45,7 @@ body{
        font-size: 30px;
        font-family: serif;
        text-align: center;
-       color: teal;
+       color: maroon;
    }
    
 form{
@@ -56,6 +58,11 @@ label{
 }
 
 .btn{
-    background-color: teal;
+    background-color: maroon;
     border-radius: 0%;
+}
+
+.links{
+    font-weight: bold;
+    text-align: center;
 }
