@@ -1,9 +1,18 @@
 # My Portfolio
-Link to published website: https://karunasato.github.io/2nd_HW/
 
-Added bootstrap Navbar and linked each html page accordingly. 
-Modified the navbar Bootstrap by taking out the additional nav-item to accomidate the 3 different html pages.
-Linked Javascript and Bootstrap so Bootstraps worked properly and responsive.
-Used form Bootstrap for contact page for name/e-mail/message/submit button.
-Used Card Bootstrap for portfolio page to make layout of the photos and captions.
-Styled CSS accorindgly to make each page consistant in terms of appearance.  
+This is my updated portfolio.
+
+I updated my profile in the "About Me" section, to include my photo bio, links to GitHub, LinkedIn, resume, and e-mail address.
+
+<img src="Images\updated About Me.PNG">
+
+The portflio page has also been updated to include 3 completed projects with the description of the project, and links to the deployed application.
+
+<img src="Images\updatedPortfolio.PNG">
+
+The contact page has been updated where users may add their information such as their name, e-mail address, and write their message. Also I made slight changes for the theme for consistancy.
+
+<img src="Images\updatedContact.PNG">
+
+Link to published website: https://karunasato.github.io/Portfolio/
+
